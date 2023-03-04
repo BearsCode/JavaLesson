@@ -1,5 +1,5 @@
+// В калькулятор добавьте возможность отменить последнюю операцию.
 package HW_4.Task3;
-
 import java.util.*;
 
 public class Calculator {
