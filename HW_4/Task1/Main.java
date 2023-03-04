@@ -1,3 +1,5 @@
+// Пусть дан LinkedList с несколькими элементами. Реализуйте метод(не void), который вернет “перевернутый” список.
+
 package HW_4.Task1;
 import java.util.LinkedList;
 
